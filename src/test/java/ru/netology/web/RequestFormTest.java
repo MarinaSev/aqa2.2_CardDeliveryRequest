@@ -3,9 +3,7 @@ package ru.netology.web;
 import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selectors.*;
 import static com.codeborne.selenide.Selenide.*;
-
 import org.junit.jupiter.api.Test;
-
 import java.time.Duration;
 
 public class RequestFormTest {
